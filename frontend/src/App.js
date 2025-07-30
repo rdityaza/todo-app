@@ -3,7 +3,7 @@ import axios from 'axios';
 import './App.css';
 
 // URL untuk API backend
-const API_URL = '/api'; 
+const API_URL = 'http://localhost:3001/api';
 
 function App() {
   const [tasks, setTasks] = useState([]);
