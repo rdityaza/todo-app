@@ -1,4 +1,4 @@
-# Aplikasi To-Do List
+# Aplikasi To-Do List 
 
 Proyek ini adalah implementasi praktis dari sebuah web application sederhana dengan arsitektur tiga tingkat (Frontend, Backend, Database) yang dijalankan di atas platform Docker.
 
@@ -13,11 +13,11 @@ Proyek ini adalah implementasi praktis dari sebuah web application sederhana den
 ## Cara Menjalankan
 1.  **Clone repositori ini:**
     ```bash
-    git clone [https://github.com/URL_ANDA/NAMA_REPO.git](https://github.com/URL_ANDA/NAMA_REPO.git)
+    git clone [https://github.com/rdityaza/todo-app.git](https://github.com/rdityaza/todo-app.git)
     ```
 2.  **Masuk ke direktori proyek:**
     ```bash
-    cd NAMA_REPO
+    cd todo-app
     ```
 3.  **Bangun dan jalankan semua layanan dengan Docker Compose:**
     ```bash
